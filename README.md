@@ -1,5 +1,7 @@
 # React Rewriting Redux Workshop
 
+> A workshop to demonstrate how by simply using what React has built into it's foundation, we can write a Redux/Flux like approach to global state management.
+
 ## Table of Contents
 * [🎯 Goals](#goals)
 * [⚡ Get Started](#get-started)
