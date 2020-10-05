@@ -1,4 +1,4 @@
-# React State Management Workshop
+# React Rewriting Redux Workshop
 
 ## Table of Contents
 * [🎯 Goals](#goals)
@@ -10,16 +10,15 @@
 ## 🎯 Goals
 
 
-
 ## ⚡ Get Started
 
 ### Clone Repo
 ```
 # clone the repo
-$ git clone git@github.com:askharley/react-state-management-workshop.git
+$ git clone git@github.com:askharley/react-rewriting-redux-management-workshop.git
 ​
 # navigate into the repo root
-$ cd react-state-management-workshop
+$ cd react-rewriting-redux-workshop
 ​
 # navigate into the start project
 $ cd start
@@ -37,11 +36,7 @@ $ npm start
 ## 📚 Projects
 
 
-
 ## 🤖 Deployments
 
-
-​
 ​
 ## 🚀 How To Use This Workshop
-
